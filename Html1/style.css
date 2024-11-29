@@ -15,7 +15,7 @@ body, ul {
 .navbar-brand {
     color: #fff;
     font-size: 1.5rem;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .navbar-nav {
